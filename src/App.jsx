@@ -5,6 +5,7 @@ import GameBoard from './components/GameBoard.jsx';
 import Log from './components/Log.jsx';
 import GameOver from './components/GameOver.jsx';
 import { WINNING_COMBINATIONS } from './winning-combinations.js';
+import './index.css';
 
 const PLAYERS = {
   X: 'Player 1',
